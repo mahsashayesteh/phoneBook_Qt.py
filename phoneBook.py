@@ -7,7 +7,7 @@ app = QApplication(sys.argv)
 
 window = QWidget()
 
-window.setWindowTitle("Calculator")
+window.setWindowTitle("PhoneBook")
 
 
 # lblName = QInputDialog()
